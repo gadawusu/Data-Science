@@ -1,4 +1,4 @@
-# Collins Afeti Gadawusu - Data Science Projects Portfolio
+# Collins Afeti Gadawusu - Data Science Projects' Portfolio
 ## Index
 This repository holds the below projects. Currently they're binned in five different categories.
 
